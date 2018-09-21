@@ -1,0 +1,7 @@
+TYPESCRIPT
+
+tsc -w -> Assiste mudanças nos arquivos
+
+INSTALAR BOOTSTRAP
+- Acessar site getbootstrap
+- Ir na opçãopara usar como dependencia
